@@ -1,1 +1,1 @@
-# pose-detection-app
+# Realtime Pose Detection App
